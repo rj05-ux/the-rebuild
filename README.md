@@ -10,7 +10,7 @@ Each folder below = one topic. Inside a topic, you'll find small scripts proving
 
 ## 🏆 Flagship Project
 
-- **[ECG Arrhythmia Classification](#)** — Deep learning model, 88.25% accuracy (~5% above published benchmark), published JETIR July 2026. *(This lives outside this repo — link it here.)*
+- **[[ECG Arrhythmia Classification](#)](https://github.com/rj05-ux/CNN-BiLSTM-Dual-Attention-ECG-Classification)** — Deep learning model, 88.25% accuracy (~5% above published benchmark), published JETIR July 2026. *(This lives outside this repo — link it here.)*
 
 ---
 
