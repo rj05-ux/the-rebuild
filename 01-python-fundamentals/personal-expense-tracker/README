@@ -1,29 +1,18 @@
 # Personal Expense Tracker
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-
 A simple command-line app to add, view, and delete personal expenses, with data saved locally so it persists between runs.
-
-Built as the capstone project for the **Python Fundamentals** track in [the-rebuild](../../../) — pulls together loops, functions, conditionals, exception handling, and file I/O into one working tool.
-
----
 
 ## What it does
 
-- **Add** an expense with a category, amount, and date
-- **View** all expenses recorded so far, with a running total
-- **Delete** an expense you no longer want to keep
-- **Persist** — expenses save to a local JSON file, so nothing is lost when you close the program
-
----
+- Add an expense with a category, amount, and date
+- View all expenses recorded so far
+- Delete an expense you no longer want to keep
+- Expenses are saved to a local file, so nothing is lost when you close the program
 
 ## How to run it
 
 ```bash
 python main.py
 ```
-
----
 
 ## Menu
