@@ -1,8 +1,8 @@
 # Python Fundamentals
 
-If code is how I build things, this is where I make sure I actually understand what I am building with, not just copying syntax that happens to work.
+If code is how I build things, this is where I make sure, I actually understand what I am building with, not just copying syntax that happens to work.
 
-Each topic here follows the same shape: notes.md holds the concept and the one gotcha I ran into, demo.py is the smallest working example proving I actually get it. Once every topic here is done, the capstone pulls it all together into one real, working tool.
+For each topic, I build a small standalone project that puts that concept into practice.
 
 ```
 01-python-fundamentals/
@@ -56,8 +56,10 @@ Tracking each concept as I prove it with real, runnable code.
 
 Update the Status column as each topic's notes.md and demo.py are committed: Not Started, In Progress, or Done.
 
-## Capstone: Personal Expense Tracker
+## Personal Expense Tracker
 
-A command-line app that ties the topics above together: loops for the menu, functions for each action, conditionals for routing choices, file handling and exception handling for saving and loading data safely.
+A command-line app that ties together loops, functions, conditionals, file handling, and exception handling into one working tool.
 
 Add, view, and delete expenses, with everything saved locally so nothing is lost between runs.
+
+[View the project](./personal-expense-tracker)
