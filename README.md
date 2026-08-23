@@ -62,5 +62,3 @@ I am currently job-searching for Data Science and ML roles. Rather than just lis
 
 Python Fundamentals: next topic project.
 SQL: Joins.
-
-This section updates weekly.
