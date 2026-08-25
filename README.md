@@ -60,4 +60,4 @@ I am currently job-searching for Data Science and ML roles. Rather than just lis
 
 ## Currently working on
 
-Python Fundamentals: next topic project.
+Python Fundamentals: Project: Operators Practice
