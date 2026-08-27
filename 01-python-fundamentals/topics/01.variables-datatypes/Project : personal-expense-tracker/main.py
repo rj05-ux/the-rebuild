@@ -1,0 +1,18 @@
+# Personal Expense Tracker
+
+A simple command-line app to add, view, and delete personal expenses, with data saved locally so it persists between runs.
+
+## What it does
+
+- Add an expense with a category, amount, and date
+- View all expenses recorded so far
+- Delete an expense you no longer want to keep
+- Expenses are saved to a local file, so nothing is lost when you close the program
+
+## How to run it
+
+```bash
+python main.py
+```
+
+## Menu
