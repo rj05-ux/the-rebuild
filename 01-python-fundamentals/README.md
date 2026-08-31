@@ -30,6 +30,7 @@ capstone/
   requirements.txt
 ```
 
+
 ## Progress Log
 
 Tracking each concept as I prove it with real, runnable code.
@@ -37,7 +38,7 @@ Tracking each concept as I prove it with real, runnable code.
 | Number | Topic | Status |
 |---|---|---|
 | 01 | Variables and Datatypes | Done |
-| 02 | Operators | Not Started |
+| 02 | Operators | Done |
 | 03 | Loops | Not Started |
 | 04 | Conditionals (if-else) | Not Started |
 | 05 | Functions | Not Started |
@@ -63,3 +64,11 @@ A command-line app that ties together loops, functions, conditionals, file handl
 Add, view, and delete expenses, with everything saved locally so nothing is lost between runs.
 
 [View the project](./personal-expense-tracker)
+
+## Shopping Bill Calculator
+
+A command-line script that calculates a shopping bill with an automatic discount, using comparison and arithmetic operators.
+
+Takes item price and quantity, applies a 10% discount once the subtotal crosses 1000, and prints whether a discount was applied — along with how much more is needed to qualify if it wasn't.
+
+[View the project](./topics/02-operators/shopping-bill-calculator)
