@@ -8,9 +8,3 @@ A command-line script that converts Celsius to Fahrenheit and calculates a stude
 - Takes student marks and assigns a grade (A, B, C, or F) based on defined ranges
 - Checks whether the student passed or failed
 - Shows how many marks away the student is from the next grade up
-
-## How to run it
-
-```bash
-python main.py
-```
