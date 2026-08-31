@@ -9,6 +9,7 @@ For each topic, I build a small standalone project that puts that concept into p
 ## Flagship Project
 
 ECG Arrhythmia Classification: Deep learning model, 88.25 percent accuracy, about 5 percent above the published benchmark, published in JETIR, July 2026.
+
 Link: https://github.com/rj05-ux/CNN-BiLSTM-Dual-Attention-ECG-Classification
 
 ## Progress
@@ -39,8 +40,9 @@ If code is how I build things, this is where I make sure I actually understand w
 | Number | Project | Status |
 |---|---|---|
 | 01 | Personal Expense Tracker | Done |
+| 02 | Shopping Bill Calculator | Done |
 
-[View the project](./01-python-fundamentals/personal-expense-tracker)
+[View the projects](./01-python-fundamentals)
 
 ## SQL and Databases
 
@@ -60,4 +62,4 @@ I am currently job-searching for Data Science and ML roles. Rather than just lis
 
 ## Currently working on
 
-Python Fundamentals: Project: Temperature & Grade Converter
+SQL and Databases: Topic 02
