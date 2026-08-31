@@ -1,10 +1,17 @@
-# Temperature & Grade Converter
+# Shopping Bill Calculator
 
-A command-line script that converts Celsius to Fahrenheit and calculates a student's grade from their marks, using Python's core operators.
+A command-line script that calculates a shopping bill with an automatic discount, using Python's core operators.
 
 ## What it does
 
-- Converts a temperature from Celsius to Fahrenheit
-- Takes student marks and assigns a grade (A, B, C, or F) based on defined ranges
-- Checks whether the student passed or failed
-- Shows how many marks away the student is from the next grade up
+- Takes item price and quantity, and calculates the subtotal
+- Applies a 10% discount automatically if the subtotal is 1000 or more
+- Prints the final bill after any discount
+- Checks and prints whether a discount was applied
+- If no discount applied, shows how much more the customer needs to spend to qualify
+
+## How to run it
+
+\`\`\`bash
+python "Shopping Bill Calculator.py"
+\`\`\`
