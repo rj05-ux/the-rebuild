@@ -14,24 +14,26 @@ Link: https://github.com/rj05-ux/CNN-BiLSTM-Dual-Attention-ECG-Classification
 
 ## Progress
 
-Tracking each track as I work through it, ordered by priority.
+Tracking each track as I work through it, in the order I'm actually learning them.
 
 | Number | Track | Status | Link |
 |---|---|---|---|
 | 01 | Python Fundamentals | In Progress | ./01-python-fundamentals |
-| 04 | SQL and Databases | In Progress | ./SQL-databases |
-| 09 | Cloud and Deployment | Not Started | ./09-cloud-deployment |
-| 10 | MLOps | Not Started | ./10-mlops |
-| 02 | Python for Data | Not Started | ./02-python-for-data |
+| 02 | SQL and Databases | In Progress | ./02-sql-databases |
 | 03 | Statistics and Maths | Not Started | ./03-statistics-maths |
+| 04 | Python for Data | Not Started | ./04-python-for-data |
 | 05 | Data Analysis | Not Started | ./05-data-analysis |
-| 06 | Data Engineering | Not Started | ./06-data-engineering |
+| 06 | Business Intelligence (Power BI) | Not Started | ./06-power-bi |
 | 07 | ML Core | Not Started | ./07-ml-core |
 | 08 | Deep Learning | Complete (linked above) | ./08-deep-learning |
-| 11 | Linux and Git | Not Started | ./11-linux-git |
-| 12 | RAG and LLM (optional) | Not Started | ./12-rag-llm |
+| 09 | Data Engineering | Not Started | ./09-data-engineering |
+| 10 | MLOps | Not Started | ./10-mlops |
+| 11 | Cloud and Deployment | Not Started | ./11-cloud-deployment |
+| 12 | AI Engineering (Prompting, RAG, Agents) | Not Started | ./12-ai-engineering |
 
 Update the Status column as topics are committed: Not Started, In Progress, or Done.
+
+*Git workflow is demonstrated throughout this repo via commit history rather than as a separate track.*
 
 ## Python Fundamentals
 
