@@ -43,5 +43,3 @@ Every complex query starts as a simple one. This is where that starts.
 A small Retail Sales database with customers, products, and orders, used to practice connecting related tables and understanding how data from multiple tables can be combined.
 
 The goal is to answer real business questions such as which customers bought which products, how much each order was worth, and which customers have never placed an order.
-
-Every real-world database is built from connected tables. This is where I start learning how to connect them.
