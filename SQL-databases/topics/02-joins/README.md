@@ -19,10 +19,3 @@ Given three tables — `customers` (customer_id, customer_name, city), `products
 4. List all products, showing "No sales yet" for any product that's never been ordered
 5. Show every customer and every order together, matched where possible (simulated FULL OUTER JOIN)
 
-## How to run it
-
-Paste `02-retail-sales-joins.sql` into any SQL environment (MySQL Workbench, SQLite Online, or similar) and run it top to bottom. It creates all three tables, inserts sample data, then runs each query in order.
-
-## What tripped me up
-
-*(fill this in once you've actually built it — that's the part that makes this README yours, not a template)*
