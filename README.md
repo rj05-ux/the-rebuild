@@ -19,7 +19,7 @@ Tracking each track as I work through it, in the order I'm actually learning the
 | Number | Track | Status | Link |
 |---|---|---|---|
 | 01 | Python Fundamentals | In Progress | ./01-python-fundamentals |
-| 02 | SQL and Databases | In Progress | ./02-sql-databases |
+| 02 | SQL and Databases | In Progress | ./SQL-databases |
 | 03 | Statistics and Maths | Not Started | ./03-statistics-maths |
 | 04 | Python for Data | Not Started | ./04-python-for-data |
 | 05 | Data Analysis | Not Started | ./05-data-analysis |
@@ -64,4 +64,4 @@ I am currently job-searching for Data Science and ML roles. Rather than just lis
 
 ## Currently working on
 
-SQL and Databases: Topic 02
+SQL and Databases: Topic 02 (Joins) — query logic complete, writing up the project files.
