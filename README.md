@@ -19,17 +19,18 @@ Tracking each track as I work through it, in the order I'm actually learning the
 | Number | Track | Status | Link |
 |---|---|---|---|
 | 01 | Python Fundamentals | In Progress | ./01-python-fundamentals |
-| 02 | SQL and Databases | In Progress | ./SQL-databases |
-| 03 | Statistics and Maths | Not Started | ./03-statistics-maths |
-| 04 | Python for Data | Not Started | ./04-python-for-data |
-| 05 | Data Analysis | Not Started | ./05-data-analysis |
-| 06 | Business Intelligence (Power BI) | Not Started | ./06-power-bi |
-| 07 | ML Core | Not Started | ./07-ml-core |
-| 08 | Deep Learning | Complete (linked above) | ./08-deep-learning |
-| 09 | Data Engineering | Not Started | ./09-data-engineering |
-| 10 | MLOps | Not Started | ./10-mlops |
-| 11 | Cloud and Deployment | Not Started | ./11-cloud-deployment |
-| 12 | AI Engineering (Prompting, RAG, Agents) | Not Started | ./12-ai-engineering |
+| 02 | SQL and Databases | In Progress | ./02-sql-databases |
+| 03 | Data Structures and Algorithms | Not Started | ./03-dsa |
+| 04 | Statistics and Maths | Not Started | ./04-statistics-maths |
+| 05 | Python for Data | Not Started | ./05-python-for-data |
+| 06 | Data Analysis | Not Started | ./06-data-analysis |
+| 07 | Business Intelligence (Power BI) | Not Started | ./07-power-bi |
+| 08 | ML Core | Not Started | ./08-ml-core |
+| 09 | Deep Learning | In Progress — flagship shipped, fundamentals being rebuilt | ./09-deep-learning |
+| 10 | Data Engineering | Not Started | ./10-data-engineering |
+| 11 | MLOps | Not Started | ./11-mlops |
+| 12 | Cloud and Deployment | Not Started | ./12-cloud-deployment |
+| 13 | AI Engineering (Prompting, RAG, Agents) | Not Started | ./13-ai-engineering |
 
 Update the Status column as topics are committed: Not Started, In Progress, or Done.
 
