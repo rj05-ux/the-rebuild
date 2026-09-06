@@ -26,7 +26,7 @@ Tracking each track as I work through it, in the order I'm actually learning the
 | 06 | Data Analysis | Not Started | ./06-data-analysis |
 | 07 | Business Intelligence (Power BI) | Not Started | ./07-power-bi |
 | 08 | ML Core | Not Started | ./08-ml-core |
-| 09 | Deep Learning | In Progress — flagship shipped, fundamentals being rebuilt | ./09-deep-learning |
+| 09 | Deep Learning | Not Started | ./09-deep-learning |
 | 10 | Data Engineering | Not Started | ./10-data-engineering |
 | 11 | MLOps | Not Started | ./11-mlops |
 | 12 | Cloud and Deployment | Not Started | ./12-cloud-deployment |
