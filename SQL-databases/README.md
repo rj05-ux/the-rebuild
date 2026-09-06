@@ -35,9 +35,6 @@ Update the Status column as each topic's demo.sql and notes.md are committed: No
 A small Student Grades database, subjects, marks, exam dates, used to practice filtering data down to exactly what is asked for.
 
 Every complex query starts as a simple one. This is where that starts.
-
-[View the project](./topics/01-select-where)
-
 ## Second Stop: Joins
 
 A small Retail Sales database with customers, products, and orders, used to practice connecting related tables and understanding how data from multiple tables can be combined.
