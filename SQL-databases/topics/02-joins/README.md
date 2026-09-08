@@ -12,7 +12,7 @@ Practicing multi-table joins using a small movie rental database I designed myse
 
 ## Problem statement
 
-Given four tables — `customers` (customer_id, customer_name, city), `movies` (movie_id, movie_title, genre, rental_price), `staff` (staff_id, staff_name), and `rentals` (rental_id, customer_id, movie_id, staff_id, rental_date, return_date) — write SQL queries to:
+Given four tables — `customers` (customer_id, customer_name, city), `movies` (movie_id, movie_title, genre, rental_price), `staff` (staff_id, staff_name), and `rentals` (rental_id, customer_id, movie_id, staff_id, rental_date, return_date) and write SQL queries to:
 
 1.Show every rental along with the name of the customer who rented it, the title of the movie that was rented, and the name of the staff member who processed the transaction.
 
