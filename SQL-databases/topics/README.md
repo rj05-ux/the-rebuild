@@ -30,5 +30,3 @@ Every complex query starts as a simple one. This is where that starts.
 
 ## Currently: Joins
 A Retail Sales database — customers, products, and orders — used to practice combining tables the way a real sales system would need to.
-
-[View the project](./topics/02-joins)
