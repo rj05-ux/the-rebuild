@@ -65,4 +65,4 @@ I am currently job-searching for Data Science and ML roles. Rather than just lis
 
 ## Currently working on
 
-SQL and Databases: Topic 02 (Joins) — query logic complete, writing up the project files.
+SQL and Databases: Topic (02) SQL Joins — Movie Rentals 
