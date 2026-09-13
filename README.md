@@ -20,9 +20,9 @@ Tracking each track as I work through it, in the order I'm actually learning the
 |---|---|---|---|
 | 01 | Python Fundamentals | In Progress | `./01-python-fundamentals` |
 | 02 | SQL and Databases | In Progress | `./02-sql-databases` |
-| 03 | Data Structures and Algorithms (core basics only — arrays, search, hash tables) | In Progress | `./03-dsa` |
-| 04 | Statistics and Maths | In Progress | `./04-statistics-maths` |
-| 05 | Data Analysis | In Progress | `./05-data-analysis` |
+| 03 | Data Structures and Algorithms (core basics only — arrays, search, hash tables) | Not Started | `./03-dsa` |
+| 04 | Statistics and Maths | Not Started | `./04-statistics-maths` |
+| 05 | Data Analysis | Not Started | `./05-data-analysis` |
 | 06 | Python for Data | Not Started | `./06-python-for-data` |
 | 07 | Business Intelligence (Power BI) | Not Started | `./07-power-bi` |
 | 08 | ML Core | Not Started | `./08-ml-core` |
