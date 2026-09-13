@@ -47,7 +47,6 @@ If code is how I build things, this is where I make sure I actually understand w
 |---|---|---|
 | 01 | Personal Expense Tracker | Done |
 | 02 | Shopping Bill Calculator | Done |
-| 03–16 | Loops through Virtual Envs/Pip (see 30-Day Plan) | In Progress |
 
 [View the projects](./01-python-fundamentals)
 
@@ -60,8 +59,7 @@ This section is where I stop guessing at queries and start actually understandin
 | Number | Topic | Focus | Status |
 |---|---|---|---|
 | 01 | SELECT and WHERE | Filtering rows | Done |
-| 02–10 | Joins through Transactions/ACID | Query patterns, table design | Done |
-| Capstone | Retail Sales — 3-table joins | Not Started |
+| 02 | Joins | Combining tables | Done |
 
 [View the project](./02-sql-databases)
 
