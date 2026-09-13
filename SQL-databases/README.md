@@ -4,12 +4,6 @@ If Python is how I talk to a program, SQL is how I talk to data itself.
 
 This section is where I stop guessing at queries and start actually understanding what is happening under the hood, one small database and one query pattern at a time.
 
-Each topic here follows the same shape:
-- `notes.md`: the concept, and the one thing that tripped me up
-- `demo.sql`: a tiny database, built from scratch, queried live
-
-No huge datasets, no imported CSVs, just small tables I design myself so I can see exactly what every query is doing to the data.
-
 ## Progress Log
 
 Tracking each SQL concept as I learn it, from basic filtering to full transactions.
@@ -17,7 +11,7 @@ Tracking each SQL concept as I learn it, from basic filtering to full transactio
 | Number | Topic | Focus | Status |
 |---|---|---|---|
 | 01 | SELECT and WHERE | Filtering rows | Done |
-| 02 | Joins | Combining tables | In Progress |
+| 02 | Joins | Combining tables | Done |
 | 03 | Group By and Aggregates | Summarizing data | Not Started |
 | 04 | Subqueries | Nested queries | Not Started |
 | 05 | Window Functions | Running totals and ranks | Not Started |
@@ -37,6 +31,12 @@ Every complex query starts as a simple one. This is where that starts.
 
 [View the project](./topics/01-select-where/)
 
-## Currently: Joins
+## Joins
 
-A Retail Sales database — customers, products, and orders — used to practice combining tables the way a real sales system would need to.
+A Movie Rentals database — customers, movies, staff, and rentals — used to practice combining tables the way a real rental system would need to be, including simulating a full outer join since MySQL doesn't support one directly.
+
+[View the project](./topics/02-joins/)
+
+## Currently: Group By and Aggregates
+
+Up next: summarizing data with GROUP BY, COUNT, SUM, and AVG.
