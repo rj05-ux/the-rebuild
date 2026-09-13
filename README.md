@@ -48,8 +48,6 @@ If code is how I build things, this is where I make sure I actually understand w
 | 01 | Personal Expense Tracker | Done |
 | 02 | Shopping Bill Calculator | Done |
 | 03–16 | Loops through Virtual Envs/Pip (see 30-Day Plan) | In Progress |
-| Capstone | OOP Capstone — Bank Account simulation | Not Started |
-| Capstone | Final Capstone — Expense Tracker v2 | Not Started |
 
 [View the projects](./01-python-fundamentals)
 
@@ -62,57 +60,18 @@ This section is where I stop guessing at queries and start actually understandin
 | Number | Topic | Focus | Status |
 |---|---|---|---|
 | 01 | SELECT and WHERE | Filtering rows | Done |
-| 02–10 | Joins through Transactions/ACID | Query patterns, table design | In Progress |
+| 02–10 | Joins through Transactions/ACID | Query patterns, table design | Done |
 | Capstone | Retail Sales — 3-table joins | Not Started |
 
 [View the project](./02-sql-databases)
-
-## Data Structures and Algorithms (core basics)
-
-Just enough DSA to be interview-ready for Data Analyst / entry-level DS roles: arrays, search, and hash tables. Sorting algorithms, trees, graphs, and a full DSA capstone are deferred to a later phase.
-
-| Number | Topic | Status |
-|---|---|---|
-| 01 | Lists and Arrays | In Progress |
-| 02 | Linear + Binary Search | Not Started |
-| 06 | Hash Tables | Not Started |
-
-[View the project](./03-dsa)
-
-## Statistics and Maths
-
-Moved forward from a later phase — this is what actually gets tested in DS/analyst interviews alongside SQL.
-
-| Number | Topic | Status |
-|---|---|---|
-| 01 | Descriptive stats (mean/median/variance/std dev) | Not Started |
-| 02 | Probability basics | Not Started |
-| 03 | Distributions (normal, binomial) | Not Started |
-| 04 | Hypothesis testing (t-test, p-value) | Not Started |
-
-[View the project](./04-statistics-maths)
-
-## Data Analysis
-
-Also moved forward — direct, practical pandas/EDA work.
-
-| Number | Topic | Status |
-|---|---|---|
-| 01 | Pandas basics | Not Started |
-| 02 | GroupBy, pivot, merge | Not Started |
-| 03 | Visualization (matplotlib/seaborn) | Not Started |
-| Capstone | EDA on a real dataset | Not Started |
-
-[View the project](./05-data-analysis)
 
 ## Why this repository exists
 
 I am currently job-searching for Data Science and ML roles. Rather than just listing skills on a resume, this repository is proof — a running, honest log of rebuilding my fundamentals and shipping small things along the way, ending each section with something deployed or working end to end.
 
-## Currently working on
+Currently working on
+Python Fundamentals: Topic 03 — loops.
 
-SQL and Databases: Topic 03 — Subqueries.
+Roadmap
 
-## Roadmap
-
-See the [30-Day Plan (Phase 1, Revised)](./30-day-plan.md) for the full day-by-day breakdown through Python Fundamentals, SQL and Databases, core DSA basics, Statistics, and Data Analysis — with Business Intelligence, ML Core, Deep Learning, Data Engineering, MLOps, Cloud/AWS, AI Engineering, and remaining DSA topics to follow in later phases.
+See the 30-Day Plan (Phase 1, Revised) for the full day-by-day breakdown through Python Fundamentals, SQL and Databases, core DSA basics, Statistics, and Data Analysis — with Business Intelligence, ML Core, Deep Learning, Data Engineering, MLOps, Cloud/AWS, AI Engineering, and remaining DSA topics to follow in later phases.
