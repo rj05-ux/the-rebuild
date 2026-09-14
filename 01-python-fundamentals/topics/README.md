@@ -3,6 +3,10 @@
 Each topic folder here is a small, standalone script that proves I actually understand the concept, not just that I can recognize the syntax.
 
 
+# Python Fundamentals — Topics
+
+Each topic folder here is a small, standalone script that proves I actually understand the concept, not just that I can recognize the syntax.
+
 ## Progress Log
 
 | Number | Topic | Focus | Status |
