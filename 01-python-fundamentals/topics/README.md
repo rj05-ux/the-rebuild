@@ -24,4 +24,4 @@ Shopping Bill Calculator — practicing arithmetic and comparison operators on r
 
 [View the project](./02·Operators/)
 
-## Currently: Loops
+## Currently: 3.Loops : Number-Guessing Game
