@@ -8,7 +8,7 @@ Each topic folder here is a small, standalone script that proves I actually unde
 |---|---|---|---|
 | 01 | Variables & Datatypes | Core types, type conversion | Done |
 | 02 | Operators | Arithmetic, comparison, logical | Done |
-| 03 | Loops | File Organizer Automation — for loops, conditionals, os/shutil | In Progress |
+| 03 | Loops | File Organizer Automation — for loops, conditionals| In Progress |
 
 Update the Status column as: Not Started, In Progress, or Done.
 
