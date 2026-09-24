@@ -38,5 +38,3 @@ A Movie Rentals database — customers, movies, staff, and rentals — used to p
 [View the project](./topics/02-joins/)
 
 ## Currently: Group By and Aggregates
-
-Up next: summarizing data with GROUP BY, COUNT, SUM, and AVG.
