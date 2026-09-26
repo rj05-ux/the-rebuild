@@ -20,7 +20,7 @@ Tracking each track as I work through it, in the order I'm actually learning the
 |---|---|---|---|
 | 01 | Python Fundamentals | In Progress | `./01-python-fundamentals` |
 | 02 | SQL and Databases | In Progress | `./02-sql-databases` |
-| 03 | Data Structures and Algorithms (core basics only — arrays, search, hash tables) | Not Started | `./03-dsa` |
+| 03 | Data Structures and Algorithms (arrays, search, hash tables, sorting algorithms, trees, graphs, full capstone) | Not Started |
 | 04 | Statistics and Maths | Not Started | `./04-statistics-maths` |
 | 05 | Data Analysis | Not Started | `./05-data-analysis` |
 | 06 | Python for Data | Not Started | `./06-python-for-data` |
@@ -31,7 +31,6 @@ Tracking each track as I work through it, in the order I'm actually learning the
 | 11 | MLOps | Not Started | `./11-mlops` |
 | 12 | Cloud and Deployment | Not Started | `./12-cloud-deployment` |
 | 13 | AI Engineering (Prompting, RAG, Agents) | Not Started | `./13-ai-engineering` |
-| — | DSA — remaining topics (sorting algorithms, trees, graphs, full capstone) | Deferred | `./03-dsa` |
 
 Update the Status column as topics are committed: Not Started, In Progress, or Done.
 
