@@ -68,7 +68,3 @@ I am currently job-searching for Data Science and ML roles. Rather than just lis
 
 Currently working on
 Python Fundamentals: Topic 03 — loops.
-
-Roadmap
-
-See the 30-Day Plan (Phase 1, Revised) for the full day-by-day breakdown through Python Fundamentals, SQL and Databases, core DSA basics, Statistics, and Data Analysis — with Business Intelligence, ML Core, Deep Learning, Data Engineering, MLOps, Cloud/AWS, AI Engineering, and remaining DSA topics to follow in later phases.
