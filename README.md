@@ -66,3 +66,6 @@ This section is where I stop guessing at queries and start actually understandin
 
 I am currently job-searching for Data Science and ML roles. Rather than just listing skills on a resume, this repository is proof a running, honest log of rebuilding my fundamentals and shipping small things along the way, ending each section with something deployed or working end to end.
 
+
+Currently working on
+Python Fundamentals: Topic 03 — loops.
