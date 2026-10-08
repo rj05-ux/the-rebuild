@@ -34,7 +34,6 @@ Tracking each track as I work through it, in the order I'm actually learning the
 
 Update the Status column as topics are committed: Not Started, In Progress, or Done.
 
-Git workflow is demonstrated throughout this repo via commit history rather than as a separate track.
 
 **Note on sequencing:** Statistics and Data Analysis were originally planned for a later phase, but have been moved forward into Phase 1 since they come up directly in Data Analyst / entry-level Data Science interviews. The deeper DSA topics (sorting algorithms, trees, graphs) have been deferred to a later phase in exchange they matter more for software-engineering-style interviews and aren't gating an entry-level DS/analyst offer.
 
