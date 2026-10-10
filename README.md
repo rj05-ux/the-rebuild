@@ -6,12 +6,6 @@ I already have hands-on experience, including a published deep learning project 
 
 For each topic, I build a small standalone project that puts that concept into practice.
 
-## Flagship Project
-
-**ECG Arrhythmia Classification**: Deep learning model, 88.25% accuracy, about 5% above the published benchmark, published in JETIR, July 2026.
-
-Link: https://github.com/rj05-ux/CNN-BiLSTM-Dual-Attention-ECG-Classification
-
 ## Progress
 
 Tracking each track as I work through it, in the order I'm actually learning them.
