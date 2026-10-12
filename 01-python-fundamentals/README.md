@@ -31,7 +31,7 @@ Tracking each concept as I prove it with real, runnable code.
 | 16 | Virtual Envs and Pip | Not Started |
 | Capstone | Personal Expense Tracker | Done |
 
-Update the Status column as each topic's notes.md and demo.py are committed: Not Started, In Progress, or Done.
+Update the Status column: committed (Not Started, In Progress, or Done).
 
 ## Personal Expense Tracker
 
