@@ -4,31 +4,7 @@ If code is how I build things, this is where I make sure, I actually understand 
 
 For each topic, I build a small standalone project that puts that concept into practice.
 
-```
-01-python-fundamentals/
-README.md
-topics/
-  01-variables-datatypes/
-  02-operators/
-  03-loops/
-  04-conditionals-if-else/
-  05-functions/
-  06-args-kwargs/
-  07-list-comprehensions/
-  08-lambda-map-filter-reduce/
-  09-oop-classes/
-  10-inheritance-polymorphism/
-  11-decorators/
-  12-generators-iterators/
-  13-file-handling/
-  14-exception-handling/
-  15-regex/
-  16-virtual-envs-pip/       notes.md only, no demo.py needed
-capstone/
-  README.md
-  main.py
-  requirements.txt
-```
+
 
 
 ## Progress Log
