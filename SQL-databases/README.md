@@ -23,7 +23,7 @@ Tracking each SQL concept as I learn it, from basic filtering to full transactio
 Update the Status column: committed (Not Started, In Progress, or Done).
 
 
-## First Stop: SELECT and WHERE
+## SELECT and WHERE
 
 A small Student Grades database — subjects, marks, exam dates — used to practice filtering data down to exactly what is asked for.
 
