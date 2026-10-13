@@ -21,7 +21,7 @@ Tracking each SQL concept as I learn it, from basic filtering to full transactio
 | 09 | Stored Procedures | Reusable SQL logic | Not Started |
 | 10 | Transactions and ACID | Data integrity | Not Started |
 
-Update the Status column as each topic's `demo.sql` and `notes.md` are committed: Not Started, In Progress, or Done.
+
 
 ## First Stop: SELECT and WHERE
 
