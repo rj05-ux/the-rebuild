@@ -20,7 +20,7 @@ Tracking each SQL concept as I learn it, from basic filtering to full transactio
 | 08 | CTEs | Readable complex queries | Not Started |
 | 09 | Stored Procedures | Reusable SQL logic | Not Started |
 | 10 | Transactions and ACID | Data integrity | Not Started |
-
+Update the Status column: committed (Not Started, In Progress, or Done).
 
 
 ## First Stop: SELECT and WHERE
