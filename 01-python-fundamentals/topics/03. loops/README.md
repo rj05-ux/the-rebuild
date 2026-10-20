@@ -14,20 +14,6 @@ To practice `while` loops, conditionals, comparison operators, and a counter var
 - Counts the attempts
 - Ends only when the correct number is guessed, then prints the number of attempts
 
-## Example
-
-Secret number: 42
-
-Input and output:
-
-```
-(fill in from a real run of your program)
-```
-
-## What tripped me up
-
-(Write one honest line after you build it.)
-
 ## Note
 
 This is a basic version. It does not yet handle non-numeric input or guesses outside the range.
