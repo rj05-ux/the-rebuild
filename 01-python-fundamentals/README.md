@@ -15,7 +15,7 @@ Tracking each concept as I prove it with real, runnable code.
 |---|---|---|
 | 01 | Variables and Datatypes | Done |
 | 02 | Operators | Done |
-| 03 | Loops | Not Started |
+| 03 | Loops | No Started |
 | 04 | Conditionals (if-else) | Not Started |
 | 05 | Functions | Not Started |
 | 06 | Args and Kwargs | Not Started |
