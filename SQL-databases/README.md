@@ -8,6 +8,7 @@ This section is where I stop guessing at queries and start actually understandin
 
 Tracking each SQL concept as I learn it, from basic filtering to full transactions.
 
+
 | Number | Topic | Focus | Status |
 |---|---|---|---|
 | 01 | SELECT and WHERE | Filtering rows | Done |
