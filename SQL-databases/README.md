@@ -22,7 +22,7 @@ Tracking each SQL concept as I learn it, from basic filtering to full transactio
 | 10 | Transactions and ACID | Data integrity | Not Started |
 
 
-(Update the Status column: committed (Not Started, In Progress, or Done).
+Update the Status column: committed (Not Started, In Progress, or Done).
 
 
 ## SELECT and WHERE
