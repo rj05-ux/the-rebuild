@@ -2,7 +2,7 @@
 
 A structured journey of relearning core Python, SQL, ML, and cloud fundamentals, one small project at a time.
 
-I already have hands-on experience, including a published deep learning project (see below), but I wanted to go back and rebuild my fundamentals properly, document everything, and prove each concept with a small working project rather than just claiming to know it.
+I already have hands-on experience, including a published deep learning project (see below), but I wanted to go back and rebuild my fundamentals properly, document everything, and prove each concept with a small working project rather than just claiming to know it.       
 
 For each topic, I build a small standalone project that puts that concept into practice.
 
