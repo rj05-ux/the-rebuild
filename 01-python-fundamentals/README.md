@@ -6,7 +6,6 @@ For each topic, I build a small standalone project that puts that concept into p
 
 
 
-
 ## Progress Log
 
 Tracking each concept as I prove it with real, runnable code.
