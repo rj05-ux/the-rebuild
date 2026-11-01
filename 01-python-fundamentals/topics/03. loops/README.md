@@ -13,6 +13,7 @@ To practice `while` loops, conditionals, comparison operators, and a counter var
 - Tells the player "Too high" or "Too low" after each wrong guess
 - Counts the attempts
 - Ends only when the correct number is guessed, then prints the number of attempts
+- 
 
 ## Note
 
