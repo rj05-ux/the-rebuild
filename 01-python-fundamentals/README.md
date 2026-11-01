@@ -31,6 +31,7 @@ Tracking each concept as I prove it with real, runnable code.
 
 Update the Status column: committed (Not Started, In Progress, or Done).
 
+
 ## Personal Expense Tracker
 
 A command-line app that ties together loops, functions, conditionals, file handling, and exception handling into one working tool.
