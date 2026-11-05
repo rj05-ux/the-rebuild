@@ -4,6 +4,7 @@ If code is how I build things, this is where I make sure, I actually understand 
 
 For each topic, I build a small standalone project that puts that concept into practice.
 
+
 ## Progress Log
 
 Tracking each concept as I prove it with real, runnable code.
