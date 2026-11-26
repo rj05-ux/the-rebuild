@@ -9,9 +9,3 @@ A command-line script that calculates a shopping bill with an automatic discount
 - Prints the final bill after any discount
 - Checks and prints whether a discount was applied
 - If no discount applied, shows how much more the customer needs to spend to qualify
-- 
-## How to run it
-
-\`\`\`bash
-python "Shopping Bill Calculator.py"
-\`\`\`
